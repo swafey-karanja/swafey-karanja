@@ -1,4 +1,12 @@
 ## Hi there 👋
+My name is Samuel Karanja. I am a young man with an enthusiasm and passion for tech, development work and AI.
+I enjoy developing front-end applications in particular using javascript frameworks such as angular and react.js. Currently, I am learning to use next.js with tailwind css.
+In addition, I have experience developing AI applications using python and have some experience with PHP though there remains room for improvement.
+🌱 I am looking to further increase my experience with front-end technologies related to javascript and in future increase my knowledge in AI.
+📫 How to reach me:
+  Email:Kswafey@gmail.com
+
+⚡ Fun Fact about me: I enjoy anime(my favourite being hunter x hunter and Jujutsu kaisen) and football being a fan of Liverpool football club. 
 
 <!--
 **swafey-karanja/swafey-karanja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
