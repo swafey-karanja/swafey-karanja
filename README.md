@@ -7,7 +7,7 @@ In addition, I have experience developing AI applications using Python and have 
 📫 How to reach me:
   Email:Kswafey@gmail.com
 
-⚡ Fun Fact about me: I enjoy anime(my favourite being hunter x hunter and Jujutsu kaisen) and football being a fan of Liverpool football club. 
+⚡ Fun Fact about me: I enjoy anime(my favourites being hunter x hunter and Jujutsu kaisen) and football being a fan of Liverpool football club. 
 
 
 ## Technologies & Tools
