@@ -43,4 +43,4 @@ I also have vast experience developing user interfaces for mobile applications u
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=for-the-badge)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swafey-karanja&show_icons=true&theme=radical)
