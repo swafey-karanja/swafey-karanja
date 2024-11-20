@@ -1,6 +1,6 @@
 # **Hi there 👋 I'm Samuel Karanja**
 
-![MasterHead]([https://c4.wallpaperflare.com/wallpaper/676/293/313/programmer-wallpaper-preview.jpg](https://c4.wallpaperflare.com/wallpaper/172/34/484/code-coding-geek-programmer-wallpaper-preview.jpg))
+![MasterHead](https://c4.wallpaperflare.com/wallpaper/172/34/484/code-coding-geek-programmer-wallpaper-preview.jpg)
 <h3 align="center">Fullstack developer</h3>
 
 ## **About Me**
