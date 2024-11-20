@@ -42,5 +42,7 @@ I also have vast experience developing user interfaces for mobile applications u
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=for-the-badge)
 
-
+### My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swafey-karanja&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swafey-karanja&layout=compact&theme=radical)
+
