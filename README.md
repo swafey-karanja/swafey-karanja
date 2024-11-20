@@ -1,4 +1,4 @@
-# **Hi there 👋 I'm Samuel Karanja**
+# **Hi there 👋 I'm Sam Karanja**
 
 <div align="center">
   <img src="https://c4.wallpaperflare.com/wallpaper/172/34/484/code-coding-geek-programmer-wallpaper-preview.jpg" alt="MasterHead" />
@@ -12,8 +12,8 @@
 
 I am a passionate and enthusiastic tech lover, skilled in **Front-End Development**, **Web Development**, and **AI**.  
 I enjoy creating **full-stack applications**, with a focus on front-end technologies like **JavaScript frameworks**.  
-I also have experience developing **AI applications** using **Python** and some experience with **PHP**, with room for growth.  
-In addition, I have substantial experience designing user interfaces for **mobile applications** using **Flutter**.
+I also have experience developing **AI applications** using **Python**.  
+In addition, I have substantial experience developing user interfaces for **mobile applications** using **Flutter**.
 
 🌱 I’m constantly seeking to enhance my expertise in **front-end and back-end technologies** and aim to expand my knowledge in **AI** in the future.  
 
@@ -71,9 +71,15 @@ I’m a huge fan of **anime** (*favorites: Hunter x Hunter, Jujutsu Kaisen*) and
 ## **📈 My Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swafey-karanja&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swafey-karanja&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swafey-karanja&theme=radical" alt="GitHub Streak" />
+  <!-- Main Stats Graphic -->
+  <img src="https://github-readme-stats.vercel.app/api?username=swafey-karanja&show_icons=true&theme=radical" alt="GitHub Stats" width="80%" />
+  
+  <!-- Secondary Graphics -->
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swafey-karanja&layout=compact&theme=radical" alt="Top Languages" width="40%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=swafey-karanja&theme=radical" alt="GitHub Streak" width="40%" />
+  </div>
 </div>
+
 
 ---
