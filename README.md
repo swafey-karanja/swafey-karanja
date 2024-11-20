@@ -72,13 +72,13 @@ I’m a huge fan of **anime** (*favorites: Hunter x Hunter, Jujutsu Kaisen*) and
 
 <div align="center">
   <!-- Main Stats Graphic -->
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swafey-karanja&layout=compact&theme=radical" alt="Top Languages" width="80%" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swafey-karanja&layout=compact&theme=radical" alt="Top Languages" width="60%" />
   
   
   <!-- Secondary Graphics -->
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=swafey-karanja&show_icons=true&theme=radical" alt="GitHub Stats" width="40%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=swafey-karanja&theme=radical" alt="GitHub Streak" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=swafey-karanja&show_icons=true&theme=radical" alt="GitHub Stats" width="30%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=swafey-karanja&theme=radical" alt="GitHub Streak" width="30%" />
   </div>
 </div>
 
