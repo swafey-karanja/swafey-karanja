@@ -1,5 +1,8 @@
 # **Hi there 👋 I'm Samuel Karanja**
 
+![MasterHead]([https://c4.wallpaperflare.com/wallpaper/676/293/313/programmer-wallpaper-preview.jpg](https://c4.wallpaperflare.com/wallpaper/172/34/484/code-coding-geek-programmer-wallpaper-preview.jpg))
+<h3 align="center">Fullstack developer</h3>
+
 ## **About Me**
 I am a passionate and enthusiastic tech lover, skilled in **Front-End Development**, **Web Development**, and **AI**.  
 I enjoy creating **full-stack applications**, with a focus on front-end technologies like **JavaScript frameworks**.  
@@ -68,5 +71,3 @@ I’m a huge fan of **anime** (*favorites: Hunter x Hunter, Jujutsu Kaisen*) and
 
 ---
 
-## **💡 Fun Extras**
-![MasterHead](https://c4.wallpaperflare.com/wallpaper/676/293/313/programmer-wallpaper-preview.jpg)
