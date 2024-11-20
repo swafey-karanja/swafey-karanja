@@ -62,8 +62,8 @@ I’m a huge fan of **anime** (*favorites: Hunter x Hunter, Jujutsu Kaisen*) and
 
 ### **Design Tools**
 <div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" />
 </div>
 
 ---
