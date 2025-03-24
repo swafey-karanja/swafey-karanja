@@ -79,6 +79,7 @@ I’m a huge fan of **anime** (*favorites: Hunter x Hunter, Jujutsu Kaisen*) and
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=swafey-karanja&show_icons=true&theme=radical" alt="GitHub Stats" width="30%" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=swafey-karanja&theme=radical" alt="GitHub Streak" width="30%" />
+    <figure><embed src="https://wakatime.com/share/@301ccea3-b77b-422d-9c7e-caa1146f7d22/bedeb2b3-7b03-450b-a61d-0636dc71b8c0.svg"></embed></figure>
   </div>
 </div>
 
