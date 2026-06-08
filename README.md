@@ -10,9 +10,10 @@
 
 ## **About Me**
 
-I am a passionate and enthusiastic tech lover, skilled in **Front-End Development**, **Web Development**, and **AI**.  
-I enjoy creating **full-stack applications**, with a focus on front-end technologies like **JavaScript frameworks**.  
-I also have experience developing **AI applications** using **Python**.  
+I am a Software Engineer with experience building modern full-stack web applications using **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**. I have strong experience working with REST APIs, including designing, developing, and integrating services that power scalable and user-focused applications.
+
+On the backend, I work with **Node.js** and **Python**, alongside **PostgreSQL** and **MongoDB** for database development and management. I am passionate about building clean, efficient software, integrating AI-driven solutions, and delivering reliable products that solve real-world problems.
+ 
 
 🌱 I’m constantly seeking to enhance my expertise in **front-end and back-end technologies** and aim to expand my knowledge in **AI** in the future.  
 
