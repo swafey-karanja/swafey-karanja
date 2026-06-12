@@ -4,7 +4,7 @@
   <img src="https://c4.wallpaperflare.com/wallpaper/172/34/484/code-coding-geek-programmer-wallpaper-preview.jpg" alt="MasterHead" />
 </div>
 
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 ---
 
