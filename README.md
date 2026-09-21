@@ -12,19 +12,6 @@ Software Engineer with a Computer Science degree from the University of Nairobi.
 
 Since 2025 I've worked in an AI-native workflow built around Claude Code and GitHub Copilot: I design the architecture, write detailed specs, direct agents to implement and test, then review and harden every change before shipping.
 
-## **🤖 Featured Project: RAG Chatbot with Cited Answers**
-
-An end-to-end Retrieval-Augmented Generation system that answers questions from a WordPress site and its PDF library, with clickable citations to the exact source page.
-
-- **Ingestion:** WordPress REST API pipeline with retry logic, resumable PDF downloads, and a unified metadata manifest
-- **Parsing:** layout-aware, OCR-enabled PDF parsing (`unstructured`) and HTML-to-Markdown conversion (`trafilatura`)
-- **Chunking:** document-aware chunks with token overlap, standalone table chunks, and LLM-generated contextual headers
-- **Retrieval:** hybrid search (Cohere `embed-v4` dense + BM25 sparse vectors) in Qdrant with Reciprocal Rank Fusion, two-step hierarchical retrieval, and recency filtering
-- **Generation:** grounded answers with Cohere Command R+, inline citations, and a fallback when context is insufficient
-- **Memory:** LLM-based query rewriting for multi-turn conversations
-- **Maintenance:** incremental updates using WordPress modified dates and content hashing
-- **Deployment:** FastAPI backend, Redis sessions, and an embeddable JavaScript chat widget
-
 ## **🛠️ Technologies & Tools**
 
 ### **Frontend**
@@ -44,8 +31,6 @@ An end-to-end Retrieval-Augmented Generation system that answers questions from 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="70" alt="FastAPI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="70" alt="Go" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="70" alt="GraphQL" />
 </div>
 
 ### **Databases**
@@ -77,7 +62,6 @@ An end-to-end Retrieval-Augmented Generation system that answers questions from 
 ### **DevOps & Tools**
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="70" alt="WordPress" />
 </div>
