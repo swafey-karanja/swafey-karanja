@@ -55,7 +55,6 @@ Since 2025 I've worked in an AI-native workflow built around Claude Code and Git
 ![Cohere](https://img.shields.io/badge/Cohere-39594D?style=for-the-badge&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Hybrid_Search-blueviolet?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-Dense_+_BM25-orange?style=for-the-badge)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
